@@ -1,4 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adrift001&show_icons=true)
+![Anurag's github stats]()
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Adrift001&show_icons=true" />
 
 ### Hello, World 👋
 
