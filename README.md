@@ -2,6 +2,6 @@
 
 ### Hello, World 👋
 
-- 🍎 半吊子iOS开发
-- 😂 会点Flutter
-- 🙂 会点其他的
+- 🍎 半吊子Flutter开发
+- 🙂 会点前端
+- 🐶 会点其他的
